@@ -20,9 +20,9 @@ Development of a website with a team for my final year problem to solve the issu
 Beginner experience with Api creation using OpenApi with a team to make a simple book catalogue api, I worked on the general foundation by making the base template for the openapi.yaml(the api file), connecting swaggerUI and gathering info on how the mock server would work to my peers
 
 ## Featured Projects
+todolist: https://github.com/Sp-ade/Ntodo : My first react project, a small step but one nonethe less where i mainly focused on usestates, react router and getting used to making reuseable components
 Simple book catalogue api: https://github.com/Sp-ade/Group_8_sen406_Book_Catalogue_api : A simple intro Program using swaggerui to learn api creation and test endpoints.
-
-Kwali Website WIP: https://github.com/KWALIwebTeam/Kwaliweb
+JournalJot: https://journaljot-git-main-ademola-abdulsamad-afolabis-projects.vercel.app/ : A school project wherre I and a team of 4 made a diary creation site for documenting works while traveling, It served more as a tech stack training tool allowing me to further my familiarity with react.
 ## Contact
 Linkedin: https://www.linkedin.com/in/afolabi-ademola
 Email: ademola1304@gmail.com
