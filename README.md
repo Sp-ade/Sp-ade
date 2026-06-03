@@ -21,6 +21,7 @@ Beginner experience with Api creation using OpenApi with a team to make a simple
 
 ## Featured Projects
 Simple book catalogue api: https://github.com/Sp-ade/Group_8_sen406_Book_Catalogue_api : A simple intro Program using swaggerui to learn api creation and test endpoints.
+
 Kwali Website WIP: https://github.com/KWALIwebTeam/Kwaliweb
 ## Contact
 Linkedin: https://www.linkedin.com/in/afolabi-ademola
