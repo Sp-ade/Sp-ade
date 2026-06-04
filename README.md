@@ -22,6 +22,7 @@ I aim to keep evolving and produce quality software solutions by adapting and be
 ## Featured Projects
 - Simple book catalogue api: https://github.com/Sp-ade/Group_8_sen406_Book_Catalogue_api : A simple intro Program using swaggerui to learn api creation and test endpoints.
 - JournalJot: https://journaljot-git-main-ademola-abdulsamad-afolabis-projects.vercel.app/ : A school project wherre I and a team of 4 made a diary creation site for documenting works while traveling, It served more as a tech stack training tool allowing me to further my familiarity with react.
+- Final Year Repository Backend(private): https://github.com/Sp-ade/Finalyearrepoprototypebackend 
 ## Contact
 Linkedin: https://www.linkedin.com/in/afolabi-ademola
 Email: ademola1304@gmail.com
